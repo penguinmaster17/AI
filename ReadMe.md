@@ -1,1 +1,1 @@
-Built a neural network from scratch to help identify numbers from MNIST
+Built a neural network from scratch to identify numbers from MNIST
